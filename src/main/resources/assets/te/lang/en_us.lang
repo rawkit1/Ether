@@ -1,0 +1,13 @@
+// CONTAINERS
+container.ethereal_extractor=Ethereal Extractor
+
+// ITEMS
+
+item.ethereum_shard.name=Ethereum Shard
+item.ethereum_ingot.name=Ethereum Ingot
+item.ethereal_blade.name=Ethereal Blade
+
+// BLOCKS
+
+tile.ethereum_ore.name=Ethereum Ore
+tile.ethereal_extractor.name=Ethereal Extractor

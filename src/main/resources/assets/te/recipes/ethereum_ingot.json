@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "RRR"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "te:ethereum_shard"
+        }
+    },
+    
+    "result":
+    {
+        "item": "te:ethereum_ingot",
+        "count": 1
+    }
+}
